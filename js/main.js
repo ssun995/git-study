@@ -1,1 +1,1 @@
-const body = document.querySelector('body');
+const body = document.querySelector('body'); //주석 추가
